@@ -1,0 +1,29 @@
+2026-07-07 10:46:53 INFO  Tc_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-07-07 10:46:53 INFO  Tc_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-07-07 10:46:53 INFO  Tc_002_LoginTest:24 - clicked on login link under myaccount..
+2026-07-07 10:46:53 INFO  Tc_002_LoginTest:28 - Entering valid email and password..
+2026-07-07 10:46:54 INFO  Tc_002_LoginTest:32 - clicked on ligin button..
+2026-07-07 10:47:24 INFO  Tc_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-07-07 10:47:25 INFO  Tc_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-07-07 10:47:25 INFO  Tc_002_LoginTest:24 - clicked on login link under myaccount..
+2026-07-07 10:47:25 INFO  Tc_002_LoginTest:28 - Entering valid email and password..
+2026-07-07 10:47:26 INFO  Tc_002_LoginTest:32 - clicked on ligin button..
+2026-07-07 10:47:27 INFO  Tc_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2026-07-07 11:07:43 INFO  Tc_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-07-07 11:07:44 INFO  Tc_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-07-07 11:07:45 INFO  Tc_002_LoginTest:24 - clicked on login link under myaccount..
+2026-07-07 11:07:45 INFO  Tc_002_LoginTest:28 - Entering valid email and password..
+2026-07-07 11:07:46 INFO  Tc_002_LoginTest:32 - clicked on ligin button..
+2026-07-07 11:07:47 INFO  Tc_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2026-07-07 11:15:52 INFO  Tc_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-07-07 11:15:52 INFO  Tc_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-07-07 11:15:53 INFO  Tc_002_LoginTest:24 - clicked on login link under myaccount..
+2026-07-07 11:15:53 INFO  Tc_002_LoginTest:28 - Entering valid email and password..
+2026-07-07 11:15:54 INFO  Tc_002_LoginTest:32 - clicked on ligin button..
+2026-07-07 11:15:55 INFO  Tc_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2026-07-07 11:20:57 INFO  Tc_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-07-07 11:20:57 INFO  Tc_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-07-07 11:20:57 INFO  Tc_002_LoginTest:24 - clicked on login link under myaccount..
+2026-07-07 11:20:57 INFO  Tc_002_LoginTest:28 - Entering valid email and password..
+2026-07-07 11:20:58 INFO  Tc_002_LoginTest:32 - clicked on ligin button..
+2026-07-07 11:20:59 INFO  Tc_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****

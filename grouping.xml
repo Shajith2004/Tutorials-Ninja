@@ -1,0 +1,16 @@
+<suite name="Suite">
+<test thread-count="5" name="Test">
+<groups>
+<run>
+<include name="sanity"/>
+</run>
+</groups>
+<parameter name="os" value="Windows"/>
+<parameter name="browser" value="chrome"/>
+<classes>
+<class name="testCases.Tc_001_AccountRegistrationTest"/>
+<class name="testCases.Tc_002_LoginTest"/>
+</classes>
+</test>
+<!--  Test  -->
+</suite>
